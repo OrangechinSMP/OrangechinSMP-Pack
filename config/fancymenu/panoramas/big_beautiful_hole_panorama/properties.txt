@@ -1,8 +1,0 @@
-type = panorama
-
-panorama-meta {
-  name = big_beautiful_hole_panorama
-  speed = 0.75
-  fov = 90.0
-  angle = 20.0
-}

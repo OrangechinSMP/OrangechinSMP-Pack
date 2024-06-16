@@ -1,3 +1,0 @@
-identifier = orangechin.spunchbop
-title = 
-allowesc = true

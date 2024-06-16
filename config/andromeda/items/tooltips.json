@@ -1,7 +1,0 @@
-{
-  "clock": true,
-  "compass": true,
-  "recoveryCompass": true,
-  "enabled": true,
-  "scope": "GLOBAL"
-}
