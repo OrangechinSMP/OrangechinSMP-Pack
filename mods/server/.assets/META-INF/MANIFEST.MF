@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Specification-Title: YungsExtras
+Specification-Vendor: YUNGNICKYOUNG
+Specification-Version: 1.20-Fabric-4.0.3
+Implementation-Title: Fabric
+Implementation-Version: 1.20-Fabric-4.0.3
+Implementation-Vendor: YUNGNICKYOUNG
+Implementation-Timestamp: 2023-09-26T01:57:21-0400
+Timestampe: 1695707841494
+Built-On-Java: 17.0.2+8-LTS-86 (Oracle Corporation)
+Built-On-Minecraft: 1.20
+Fabric-Gradle-Version: 8.1.1
+Fabric-Loom-Version: 1.2.7
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.20
+Fabric-Tiny-Remapper-Version: 0.8.5
+Fabric-Loader-Version: 0.14.21
+Fabric-Mixin-Version: 0.12.5+mixin.0.8.5
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "minecraft:sharpness",
+    "minecraft:smite",
+    "extra_de:herbicide",
+    "extra_de:rebel",
+    "extra_de:butcher",
+    "extra_de:voidrender",
+    "minecraft:bane_of_arthropods",
+    "extra_de:unravel"
+  ]
+}

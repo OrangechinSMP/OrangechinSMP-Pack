@@ -1,0 +1,10 @@
+{
+  "freeze": true,
+  "extinguish": true,
+  "melt": true,
+  "layers": false,
+  "enableCooldown": true,
+  "cooldown": 10,
+  "enabled": false,
+  "scope": "GLOBAL"
+}
