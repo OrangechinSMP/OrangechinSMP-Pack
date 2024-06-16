@@ -1,0 +1,13 @@
+name = "ramel"
+filename = "ramel-0.1.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cec6a3fb04b81530d1b3fcc54690afab41db5ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4596038
+project-id = 877074

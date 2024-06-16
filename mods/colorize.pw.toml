@@ -1,0 +1,13 @@
+name = "Colorize"
+filename = "colorize-1.20.4-fabric-1.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b83e502e9b7975d7a8f717f88fa2665bcde08900"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5118127
+project-id = 658780

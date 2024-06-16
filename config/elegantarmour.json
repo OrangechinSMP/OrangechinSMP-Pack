@@ -1,0 +1,91 @@
+{
+  "defaultHead": "HIDE",
+  "defaultChest": "SHOW",
+  "defaultLegs": "SHOW",
+  "defaultFeet": "SHOW",
+  "defaultElytra": "SHOW",
+  "defaultSmallArmour": "HIDE",
+  "playerData": [
+    {
+      "uuid": "5254949a-a6c5-40b6-a9d0-3d316e6cc482",
+      "name": "",
+      "headState": "DEFAULT",
+      "chestState": "DEFAULT",
+      "legsState": "DEFAULT",
+      "feetState": "DEFAULT",
+      "elytraState": "DEFAULT",
+      "smallArmour": "HIDE"
+    },
+    {
+      "uuid": "a739d33e-df3d-42a6-9b3d-29af0def2e92",
+      "name": "Hell0HD",
+      "headState": "DEFAULT",
+      "chestState": "DEFAULT",
+      "legsState": "DEFAULT",
+      "feetState": "DEFAULT",
+      "elytraState": "DEFAULT",
+      "smallArmour": "HIDE"
+    },
+    {
+      "uuid": "91e66635-59e4-4b2c-a312-980032e711fd",
+      "name": "",
+      "headState": "DEFAULT",
+      "chestState": "DEFAULT",
+      "legsState": "DEFAULT",
+      "feetState": "DEFAULT",
+      "elytraState": "DEFAULT",
+      "smallArmour": "HIDE"
+    },
+    {
+      "uuid": "553a8279-32e5-4033-9a54-118a90d2fa9d",
+      "name": "",
+      "headState": "SHOW",
+      "chestState": "DEFAULT",
+      "legsState": "DEFAULT",
+      "feetState": "DEFAULT",
+      "elytraState": "DEFAULT",
+      "smallArmour": "HIDE"
+    },
+    {
+      "uuid": "88ff958b-7b88-4d0e-b709-02c6b7b7567c",
+      "name": "",
+      "headState": "SHOW",
+      "chestState": "DEFAULT",
+      "legsState": "DEFAULT",
+      "feetState": "DEFAULT",
+      "elytraState": "DEFAULT",
+      "smallArmour": "HIDE"
+    },
+    {
+      "uuid": "32a0010b-50d6-4d9e-84b9-33f3f1f242ac",
+      "name": "",
+      "headState": "SHOW",
+      "chestState": "DEFAULT",
+      "legsState": "DEFAULT",
+      "feetState": "DEFAULT",
+      "elytraState": "DEFAULT",
+      "smallArmour": "DEFAULT"
+    },
+    {
+      "uuid": "22ecfcad-eea8-4226-a463-396bb92cc75c",
+      "name": "",
+      "headState": "SHOW",
+      "chestState": "DEFAULT",
+      "legsState": "DEFAULT",
+      "feetState": "DEFAULT",
+      "elytraState": "DEFAULT",
+      "smallArmour": "HIDE"
+    },
+    {
+      "uuid": "f718f4d7-4f1b-478a-a4cb-e6a6778cf8a3",
+      "name": "",
+      "headState": "SHOW",
+      "chestState": "DEFAULT",
+      "legsState": "DEFAULT",
+      "feetState": "DEFAULT",
+      "elytraState": "DEFAULT",
+      "smallArmour": "HIDE"
+    }
+  ],
+  "slimArmSupport": true
+}

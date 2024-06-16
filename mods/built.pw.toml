@@ -1,0 +1,13 @@
+name = "Built"
+filename = "Built-fabric-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdad7f1dd855774cc77a7d9c40eee996e7e101e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5244369
+project-id = 982827

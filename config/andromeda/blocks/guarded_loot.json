@@ -1,0 +1,7 @@
+{
+  "range": 4,
+  "allowLockPicking": true,
+  "breakingHandler": "UNBREAKABLE",
+  "enabled": true,
+  "scope": "GLOBAL"
+}

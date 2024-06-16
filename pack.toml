@@ -1,0 +1,13 @@
+name = "OrangechinSMP"
+author = "Hell0HD"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "08aa6d3ecb5b3c844b3278d4c0e93ac1f81be99910393493d95f8cefe7aa3f20"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.0"
