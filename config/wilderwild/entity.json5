@@ -22,13 +22,13 @@
 		"jellyfishTentacles": 8,
 	},
 	"crab": {
-		"spawnCrabs": true,
+		"spawnCrabs": false,
 		"crabSpawnCap": 25,
 		"reachAffectsAttack": false,
 	},
 	"ostrich": {
-		"spawnOstriches": true,
-		"allowAttack": true,
+		"spawnOstriches": false,
+		"allowAttack": false,
 	},
 	"scorched": {
 		"spawnScorched": true,

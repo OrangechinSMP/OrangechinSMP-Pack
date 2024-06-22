@@ -50,7 +50,7 @@
 [CampfiresBoostHealth]
 	#Standing within range and sight of a lit campfire provides a small regeneration boost.
 	#It does not work if there are enemies nearby.
-	"CampfiresBoostHealth enabled" = true
+	"CampfiresBoostHealth enabled" = false
 
 [Chairs]
 	#Right-click (with empty hand) on any stairs block to sit down.
@@ -402,5 +402,5 @@
 
 [Woodcutters]
 	#A functional block that adds more efficient recipes for crafting wooden stairs and slabs.
-	"Woodcutters enabled" = true
+	"Woodcutters enabled" = false
 

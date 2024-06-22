@@ -8,7 +8,7 @@
     "renderPath": "./replay_videos/",
     "skipPostRenderGui": false,
     "askForOpenEye": true,
-    "skipPostScreenshotGui": false,
+    "skipPostScreenshotGui": true,
     "fullBrightness": "replaymod.gui.settings.fullbrightness.gamma",
     "fullBrightness_valid_values": [
       "replaymod.gui.settings.fullbrightness.gamma",
@@ -17,18 +17,21 @@
     ]
   },
   "recording": {
-    "recordSingleplayer": true,
+    "recordSingleplayer": false,
     "recordServer": true,
-    "indicator": true,
-    "autoStartRecording": true,
+    "indicator": false,
+    "autoStartRecording": false,
     "autoPostProcess": true,
     "renameDialog": true
   },
   "replay": {
-    "showChat": true,
+    "showChat": false,
     "showServerIPs": true,
-    "camera": "replaymod.camera.classic",
-    "camera_valid_values": [],
+    "camera": "replaymod.camera.vanilla",
+    "camera_valid_values": [
+      "replaymod.camera.classic",
+      "replaymod.camera.vanilla"
+    ],
     "legacyMainMenuButton": false,
     "mainMenuButton": "DEFAULT",
     "mainMenuButton_valid_values": [

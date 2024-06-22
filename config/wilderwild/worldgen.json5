@@ -53,5 +53,5 @@
 	"surfaceDecoration": true,
 	"snowBelowTrees": true,
 	"surfaceTransitions": true,
-	"newWitchHuts": true,
+	"newWitchHuts": false,
 }

@@ -5,7 +5,7 @@
 	},
 	"tooltips": {
 		"showUsabilityHints": true,
-		"compactUsabilityHints": false
+		"compactUsabilityHints": true
 	},
 	"executeCommand": {
 		"permissionLevel": 2,

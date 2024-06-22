@@ -1,7 +1,0 @@
-{
-  "canZombiesThrowItems": true,
-  "zombieThrowInterval": 40,
-  "tooltip": true,
-  "enabled": false,
-  "scope": "GLOBAL"
-}

@@ -13,7 +13,7 @@
   "show_underwater_sparks": false,
   "underwater_spark_size": 4.0,
   "underwater_spark_opacity": 0.3,
-  "show_default_explosion_underwater": false,
+  "show_default_explosion_underwater": true,
   "dynamic_size": true,
   "dynamic_underwater": true,
   "attempt_better_small_explosions": true,

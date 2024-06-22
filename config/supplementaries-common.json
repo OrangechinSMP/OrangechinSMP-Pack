@@ -132,7 +132,7 @@
   "building": {
     "blackboard": {
       "enabled": true,
-      "colored_blackboard": false,
+      "colored_blackboard": true,
       "interaction_mode": "BOTH"
     },
     "timber_frame": {
