@@ -361,48 +361,12 @@ file = "config/fancymenu/animations/spunchbop_2/audio/mainaudio.wav"
 hash = "9265e9aa5dd3b1b65ebe8d5cd280028b8f9bc6ee2edc1a2e69097dea1c67c6fa"
 
 [[files]]
-file = "config/fancymenu/assets/bad_sum.mp3"
-hash = "3c3fbc9cf2514a838dcd8e670e8ed5d99c37e431a358dad3bc3e539b4ebb88c6"
-
-[[files]]
-file = "config/fancymenu/assets/bad_sum.wav"
-hash = "2dddd77f4dce1d6809a95ccf61065d1ba4457aa476413312bb3bd29ecdd3b38c"
-
-[[files]]
 file = "config/fancymenu/assets/bello.ogg"
 hash = "61275f31225665f8d870602b22441cb4f9339b9982b03a2a615f0ab2423ecf5f"
 
 [[files]]
 file = "config/fancymenu/assets/boo womp.wav"
 hash = "0f2583fd585bf372849927d8284ec7bcc1977eb5b0db64c2f49f04abdc74d31c"
-
-[[files]]
-file = "config/fancymenu/assets/button_hover.wav"
-hash = "bee412ac6f53d632e48e33b18342a960cd38f6c918592a2f49dda2673143a44f"
-
-[[files]]
-file = "config/fancymenu/assets/click.wav"
-hash = "30bb4f4a6160739d315fed8748954688e8de18f2bd0c8c625e01e1073cd50334"
-
-[[files]]
-file = "config/fancymenu/assets/click_glitch (1).wav"
-hash = "34196d50caca9b0076eed9d5c5e4dcb7b9bd3eeda99fd8219d5d36152d138900"
-
-[[files]]
-file = "config/fancymenu/assets/error.png"
-hash = "73c027281c0688ac35a1ebbdea5622a3c35bc74375c0940d9a48c36bcff94b62"
-
-[[files]]
-file = "config/fancymenu/assets/error.wav"
-hash = "c521a7ec5e722f1128d0595f8cf0010c9b5cf03c003cc8ec3b617b3d2638d2cb"
-
-[[files]]
-file = "config/fancymenu/assets/goku.ogg"
-hash = "101d7f19684d408b461ed701b0743fa874f5b5f84d42aad63f6aca1649bf6787"
-
-[[files]]
-file = "config/fancymenu/assets/goku.png"
-hash = "c6c7a5bae0a6769a83661f66bc62e206bf3cafae2e8678ef1d632ff1cde1f44d"
 
 [[files]]
 file = "config/fancymenu/assets/icon.png"
@@ -425,76 +389,8 @@ file = "config/fancymenu/assets/mainaudio.wav"
 hash = "9265e9aa5dd3b1b65ebe8d5cd280028b8f9bc6ee2edc1a2e69097dea1c67c6fa"
 
 [[files]]
-file = "config/fancymenu/assets/orange_background.png"
-hash = "a54beb9ffab56e9d59d0e9577fcff97f8c75742870532ab3402c19c47a1aef7a"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button.png"
-hash = "35aa7bb353e1e9bb81fd461ddee1d2b69ed5bda006f9b279f0c0e078d32bf84f"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_accessibility.png"
-hash = "12d43229ae216e0b98bae8d6eb457dfd9cfc3c89febadd0798f31802c06a2957"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_accessibility_selected.png"
-hash = "c1dd4e54507d9d5307fc0461e6106eacb7fac73ea71de021337903046646aec1"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_awesome.png"
-hash = "6469b719628f8a9a35b3b4d20622771c9ac99cb87d76499d0a013a5f99ebc830"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_awesome_selected.png"
-hash = "56f66d95165ab062f95d32ede0902f2d4ef48c45be211872a6f6a338bb057bcf"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_language.png"
-hash = "b31a26ed3ef9fca6c6f9911c689fe3241e3d54621e394131592a8a5ad904e248"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_language_selected.png"
-hash = "e53f4d9d794484330d528f456f30a5c9b67e36f7515816a9ef9a84c6a95be33b"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_large.png"
-hash = "d9e3544defe8bed9a872b733465c7bb9b6cbfee871ae252931be6eec309ab994"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_large_selected.png"
-hash = "92348adc82b87d6aa49d4d19848164da4744e6d1097c9187c63ef8e31cbadf33"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_medium.png"
-hash = "ed7a0b91682110d2a57f602c980c9c1af59a39848f25aa2e32931a3c15759605"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_medium_selected.png"
-hash = "f2a06eb07249fa791665780cab4ccb5fb148c317ce62bee37ac32e73d60d9616"
-
-[[files]]
 file = "config/fancymenu/assets/orangechin_button_please_dont.png"
 hash = "892b268446e1e854b4c30c3aebeeae23327ec37e11695299836b6d8a4d87865e"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_selected.png"
-hash = "0bb943aa4f4feba76a89c8c794a9c853d2fc69ab93f6473cb0a05eeba1fa12c2"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_small.png"
-hash = "4e436d95c59481e44b3bd2805ff4663df3bf455b02df2f1e9bb258e67c6562b9"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_small_selected.png"
-hash = "f785d13faf628eb7866c403fa7716e33a579e27487b48bbc8cbf5dfc80979bab"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_third.png"
-hash = "aa072a93ccd6961ea474ed8800b9b05f4003734b1fcfa475492c557fc8d29ee3"
-
-[[files]]
-file = "config/fancymenu/assets/orangechin_button_third_selected.png"
-hash = "df4bd5d3da401d63207021824bc7ad5d8db41e8aa58ef51a88aa85e96d957f20"
 
 [[files]]
 file = "config/fancymenu/assets/orangechin_gradient.png"
@@ -1917,100 +1813,12 @@ file = "fancymenu/boo womp.wav"
 hash = "0f2583fd585bf372849927d8284ec7bcc1977eb5b0db64c2f49f04abdc74d31c"
 
 [[files]]
-file = "fancymenu/button_hover.wav"
-hash = "bee412ac6f53d632e48e33b18342a960cd38f6c918592a2f49dda2673143a44f"
-
-[[files]]
-file = "fancymenu/click.wav"
-hash = "30bb4f4a6160739d315fed8748954688e8de18f2bd0c8c625e01e1073cd50334"
-
-[[files]]
-file = "fancymenu/click_glitch (1).wav"
-hash = "34196d50caca9b0076eed9d5c5e4dcb7b9bd3eeda99fd8219d5d36152d138900"
-
-[[files]]
-file = "fancymenu/goku.ogg"
-hash = "101d7f19684d408b461ed701b0743fa874f5b5f84d42aad63f6aca1649bf6787"
-
-[[files]]
-file = "fancymenu/goku.png"
-hash = "c6c7a5bae0a6769a83661f66bc62e206bf3cafae2e8678ef1d632ff1cde1f44d"
-
-[[files]]
 file = "fancymenu/im_spongebob.wav"
 hash = "ae00cb193b174a477aa53f8d573109059d07f17a2301b7beb22292f932a14780"
 
 [[files]]
-file = "fancymenu/orange_background.png"
-hash = "a54beb9ffab56e9d59d0e9577fcff97f8c75742870532ab3402c19c47a1aef7a"
-
-[[files]]
-file = "fancymenu/orangechin_button.png"
-hash = "35aa7bb353e1e9bb81fd461ddee1d2b69ed5bda006f9b279f0c0e078d32bf84f"
-
-[[files]]
-file = "fancymenu/orangechin_button_accessibility.png"
-hash = "12d43229ae216e0b98bae8d6eb457dfd9cfc3c89febadd0798f31802c06a2957"
-
-[[files]]
-file = "fancymenu/orangechin_button_accessibility_selected.png"
-hash = "c1dd4e54507d9d5307fc0461e6106eacb7fac73ea71de021337903046646aec1"
-
-[[files]]
-file = "fancymenu/orangechin_button_awesome.png"
-hash = "6469b719628f8a9a35b3b4d20622771c9ac99cb87d76499d0a013a5f99ebc830"
-
-[[files]]
-file = "fancymenu/orangechin_button_awesome_selected.png"
-hash = "56f66d95165ab062f95d32ede0902f2d4ef48c45be211872a6f6a338bb057bcf"
-
-[[files]]
-file = "fancymenu/orangechin_button_language.png"
-hash = "b31a26ed3ef9fca6c6f9911c689fe3241e3d54621e394131592a8a5ad904e248"
-
-[[files]]
-file = "fancymenu/orangechin_button_language_selected.png"
-hash = "e53f4d9d794484330d528f456f30a5c9b67e36f7515816a9ef9a84c6a95be33b"
-
-[[files]]
-file = "fancymenu/orangechin_button_large.png"
-hash = "d9e3544defe8bed9a872b733465c7bb9b6cbfee871ae252931be6eec309ab994"
-
-[[files]]
-file = "fancymenu/orangechin_button_large_selected.png"
-hash = "92348adc82b87d6aa49d4d19848164da4744e6d1097c9187c63ef8e31cbadf33"
-
-[[files]]
-file = "fancymenu/orangechin_button_medium.png"
-hash = "ed7a0b91682110d2a57f602c980c9c1af59a39848f25aa2e32931a3c15759605"
-
-[[files]]
-file = "fancymenu/orangechin_button_medium_selected.png"
-hash = "f2a06eb07249fa791665780cab4ccb5fb148c317ce62bee37ac32e73d60d9616"
-
-[[files]]
 file = "fancymenu/orangechin_button_please_dont.png"
 hash = "892b268446e1e854b4c30c3aebeeae23327ec37e11695299836b6d8a4d87865e"
-
-[[files]]
-file = "fancymenu/orangechin_button_selected.png"
-hash = "0bb943aa4f4feba76a89c8c794a9c853d2fc69ab93f6473cb0a05eeba1fa12c2"
-
-[[files]]
-file = "fancymenu/orangechin_button_small.png"
-hash = "4e436d95c59481e44b3bd2805ff4663df3bf455b02df2f1e9bb258e67c6562b9"
-
-[[files]]
-file = "fancymenu/orangechin_button_small_selected.png"
-hash = "f785d13faf628eb7866c403fa7716e33a579e27487b48bbc8cbf5dfc80979bab"
-
-[[files]]
-file = "fancymenu/orangechin_button_third.png"
-hash = "aa072a93ccd6961ea474ed8800b9b05f4003734b1fcfa475492c557fc8d29ee3"
-
-[[files]]
-file = "fancymenu/orangechin_button_third_selected.png"
-hash = "df4bd5d3da401d63207021824bc7ad5d8db41e8aa58ef51a88aa85e96d957f20"
 
 [[files]]
 file = "fancymenu/orangechin_gradient.png"
