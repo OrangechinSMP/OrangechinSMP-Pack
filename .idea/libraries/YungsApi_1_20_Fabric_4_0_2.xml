@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="YungsApi-1.20-Fabric-4.0.2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/mods/library/server/YungsApi-1.20-Fabric-4.0.2.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
