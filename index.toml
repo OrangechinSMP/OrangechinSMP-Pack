@@ -2609,9 +2609,8 @@ hash = "433c7a299891bd3d90375e02fb67ca6d11fac991ab252d423fc82eb5b9261932"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
-metafile = true
+file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
+hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
 
 [[files]]
 file = "mods/replaymod-1.20.1-2.6.15.jar"
@@ -2676,9 +2675,8 @@ file = "mods/snowysniffer-1.20.1-1.0.0.jar"
 hash = "96218de328fb4a675b8c9509fc7f7f451f89ab55e0c1b5caff31efeda247b294"
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
-metafile = true
+file = "mods/sodium-extra-0.5.4+mc1.20.1-build.115(1).jar"
+hash = "e1cf1048d0ee55f9e4c381a165a1304300c8615e5071d78cc912262b362da81d"
 
 [[files]]
 file = "mods/sodium-fabric-0.5.10+mc1.20.1.jar"
