@@ -2407,10 +2407,6 @@ file = "mods/optimization/indium-1.0.32+mc1.20.1.jar"
 hash = "42aff98546b31ca0f3b2afcb619291f9d48e85c4a6fac646c505192a6f6df28f"
 
 [[files]]
-file = "mods/optimization/iris-1.7.1+mc1.20.1.jar"
-hash = "75916ddd618da04b4d4b5c24dd1b7b156f8d467474b3826ca426eb9e0f19c4ba"
-
-[[files]]
 file = "mods/optimization/memoryleakfix-fabric-1.17+-1.1.5.jar"
 hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
 
@@ -2471,82 +2467,6 @@ hash = "52a4780e309cba1a1a45392ed6ef68e7b55f9f1498a4c2e3f959099b1d86c5e7"
 file = "mods/sawmill.pw.toml"
 hash = "28aaa0329282ce273d3d047b38308a83704e8cc1f1213d2b402bf59a5e1c97da"
 metafile = true
-
-[[files]]
-file = "mods/server/.assets/LICENSE"
-hash = "43e1daf79d1f95a807c817259c60617b86f0d7c15985154a38cf82029d9595ff"
-
-[[files]]
-file = "mods/server/.assets/META-INF/MANIFEST.MF"
-hash = "268f401bf6c260ebccdc2b338e7f468feddc82139a4b5d974647fe775513e0a3"
-
-[[files]]
-file = "mods/server/.assets/META-INF/jars/MixinExtras-0.1.1.jar"
-hash = "c6d4f8aa350cc5e0aa782a17afab1de56526d30bb03ebb7aa68442a86c68fab3"
-
-[[files]]
-file = "mods/server/.assets/META-INF/jars/cardinal-components-base-5.2.1.jar"
-hash = "7e82f0d25172d03d184b3059300441447ca29f571844ced0f62fc7a57e51bd5e"
-
-[[files]]
-file = "mods/server/.assets/META-INF/jars/cardinal-components-entity-5.2.1.jar"
-hash = "4fb85509d461befc6946f4a4ace429fe72e96ce0e3879eca98c344439e904b16"
-
-[[files]]
-file = "mods/server/.assets/META-INF/jars/fabric-api-base-0.4.29+b04edc7a82.jar"
-hash = "e48f56cf96f1768ab2d2604bb1f7a917c4db8ae9496bc7ebc7cdbd414569e767"
-
-[[files]]
-file = "mods/server/.assets/META-INF/jars/fabric-command-api-v2-2.2.11+b3afc78b82.jar"
-hash = "4ae8f0acbbad591bf2c4ea1ca9158df65d1118ed6c9c3a65c5ad14f753c29ec5"
-
-[[files]]
-file = "mods/server/.assets/META-INF/jars/fabric-lifecycle-events-v1-2.2.20+b3afc78b82.jar"
-hash = "eec46fb94c28fb9af91a46f58796073b09189c315f126385599b7c7fc1d8f50f"
-
-[[files]]
-file = "mods/server/.assets/META-INF/jars/fabric-resource-loader-v0-0.11.7+f7923f6d82.jar"
-hash = "94695e2aaf41e20c6a492a7e0dc095ca4a7703376d3ef6e6575c1a307c91b0ec"
-
-[[files]]
-file = "mods/server/.assets/META-INF/maven/de.maxhenkel.configbuilder/configbuilder/pom.properties"
-hash = "5be675d710a90cb045f9ec12738ae0556184ac2a989009c8476613e4d3496c4f"
-
-[[files]]
-file = "mods/server/.assets/META-INF/maven/de.maxhenkel.configbuilder/configbuilder/pom.xml"
-hash = "5fd0f2bb33cf7ca937035c3207ff2ac94946ecfeefc2cf5d99fb86664a20c404"
-
-[[files]]
-file = "mods/server/.assets/META-INF/mods.toml"
-hash = "57388f8409b018efd7b0b5b0bab8d758edefe19feb65a98fbb31a84483b571f0"
-
-[[files]]
-file = "mods/server/.assets/data/betterstrongholds/worldgen/structure_set/stronghold.json"
-hash = "23cff2b615d121bc3c68d4407dbc796ed0c6592fe1d6b592435316e4d39efb37"
-
-[[files]]
-file = "mods/server/.assets/data/minecraft/tags/blocks/dragon_immune.json"
-hash = "02077d0014815aef59633a8b74accc4a924bfe13d0ff3eb21267949374ccfae8"
-
-[[files]]
-file = "mods/server/.assets/data/minecraft/tags/functions/load.json"
-hash = "8a726313dfa35137d9fcb9a8d1d8b624d5799e0d4ee7f04ec8595fd764b0677b"
-
-[[files]]
-file = "mods/server/.assets/data/minecraft/tags/functions/tick.json"
-hash = "11e3b367fcdb3394165c560c4cac0b6ddfd7ce673d097cc8f05ef885f24a98b6"
-
-[[files]]
-file = "mods/server/.assets/fabric.mod.json"
-hash = "993455a35f6f08e1f9964af6919ef25a6b3dbe13b445d1b19c805d8d8416e38e"
-
-[[files]]
-file = "mods/server/.assets/icon.png"
-hash = "50e63aec866f3f305e2644cc2d32229cdc9823195b139e38a00f81ae25bb0062"
-
-[[files]]
-file = "mods/server/.assets/pack.mcmeta"
-hash = "cff0ec03e015e99f2e78d00db41fc9a33c0b4b22269ab56d34f9ede83fa3deaf"
 
 [[files]]
 file = "mods/server/AxesAreWeapons-1.7.3-fabric-1.20.2.jar"
