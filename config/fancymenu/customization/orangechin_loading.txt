@@ -1,0 +1,166 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1714660826703
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:4c1a9354-161b-45a9-8103-48805184ec4a-1714660744004] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]fancymenu/orangechin_gradient.png
+  slide = false
+  repeat_texture = false
+  background_type = image
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  source = [source:local]fancymenu/orangechinsmpwhitelines.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = e254e8bb-a656-470c-9528-574ee0f3cbc91698286137266
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -85
+  y = -106
+  width = 166
+  height = 166
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 348d4c37-912c-4500-bd98-1cc83335393a-1708369827962
+  [loading_requirement_container_meta:348d4c37-912c-4500-bd98-1cc83335393a-1708369827962] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = Loading... {"placeholder":"drippy_gl_percent"}%%n%%n%RAM Usage: {"placeholder":"usedram"}MB / {"placeholder":"maxram"}MB
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = df845390-bb18-48aa-8aed-57e64b8d3bcc-1714660763001
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = progress_bar
+  x = 0
+  y = -13
+  width = 379
+  height = 40
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 26715697-77b9-4bd6-b394-375f0ca3f952-1714660763001
+  [loading_requirement_container_meta:26715697-77b9-4bd6-b394-375f0ca3f952-1714660763001] = [groups:][instances:]
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 3e7670cc-e2bb-4c50-aacb-ea1312d71a0f-1708369827961
+  [executable_block:3e7670cc-e2bb-4c50-aacb-ea1312d71a0f-1708369827961][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 151
+  y = 127
+  width = 338
+  height = 84
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a9de80f5-e010-4a5b-926e-5a566c8416a9-1708369827961
+  [loading_requirement_container_meta:a9de80f5-e010-4a5b-926e-5a566c8416a9-1708369827961] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 7e5a1217-46ba-4885-b788-adf1769700a8-1708369827961
+  [executable_block:7e5a1217-46ba-4885-b788-adf1769700a8-1708369827961][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = progress_bar
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = -189
+  y = 65
+  width = 378
+  height = 10
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 4f3d5cb3-d6a8-4af7-a94d-55fc9d35ada0-1708369827961
+  [loading_requirement_container_meta:4f3d5cb3-d6a8-4af7-a94d-55fc9d35ada0-1708369827961] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+

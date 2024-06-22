@@ -1,0 +1,13 @@
+name = "Calm down, dog!"
+filename = "calmdowndog-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a96b62734d325d25ba55e6dffb6f56af5adec58b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5368712
+project-id = 1024105

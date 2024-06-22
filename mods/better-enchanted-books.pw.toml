@@ -1,0 +1,13 @@
+name = "Better Enchanted Books (Fabric)"
+filename = "better-enchanted-books-kotlin-1.20.4-2.0.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7d1124ae235826fa80864f9c19d685f2bd2a5bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5281062
+project-id = 369122

@@ -1,0 +1,13 @@
+name = "Cake Chomps (Fabric/Forge/NeoForge/Quilt)"
+filename = "cakechomps-fabric-6.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95a181a3b48ec11655bbe834c7ef7b3cc2eda33f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5153599
+project-id = 307943

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "supplementaries:stasis",
+    "mcdw:accelerate",
+    "mcdw:bonus_shot"
+  ]
+}

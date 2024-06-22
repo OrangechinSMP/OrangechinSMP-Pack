@@ -1,0 +1,13 @@
+name = "Cropped"
+filename = "Cropped-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25122e9a1aa68590082008871773b5ca57a1b065"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4573906
+project-id = 846009

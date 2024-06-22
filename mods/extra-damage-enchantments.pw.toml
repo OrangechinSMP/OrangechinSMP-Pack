@@ -1,0 +1,13 @@
+name = "Extra Damage Enchantments"
+filename = "extra-damage-enchantments-1.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7de7f63d387760faec199e63dd9ba1e960d94265"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5073014
+project-id = 740021
