@@ -2140,7 +2140,7 @@ hash = "0e1bcec4edde700e8c4bf9b5db47b379262dd27102faa932041c7d4b45790a73"
 metafile = true
 
 [[files]]
-file = "mods/extra-damage-enchantments-1.1.2+1.20.1(1).jar"
+file = "mods/extra-damage-enchantments-1.1.2+1.20.1.jar"
 hash = "e3a925d1032ab36c0dfd10acfc8b8762f42415f8f5e600145de6912bd3f1186d"
 
 [[files]]
