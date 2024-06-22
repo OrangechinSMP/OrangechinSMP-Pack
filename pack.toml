@@ -1,11 +1,11 @@
-name = "Orangechin finality"
+name = "OrangechinSMP"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "372a7cd776c18efccca306490c991cfdf606f58c142212422817fdb5fa280f22"
+hash = "8092d16f6046f98dfad172ff261d0be9c937d63c7f3220696e5e1a60f6e58ea4"
 
 [versions]
 minecraft = "1.20.1"

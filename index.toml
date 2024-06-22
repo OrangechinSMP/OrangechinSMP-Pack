@@ -2681,9 +2681,8 @@ hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "406a1a588dca0e316d54d288c9282dce5bf335018f691c34fd32213e0af315ac"
-metafile = true
+file = "mods/sodium-fabric-0.5.10+mc1.20.1.jar"
+hash = "e6ee1af296b48c2dfaac1fa91c9e11e3b0c0bad53934a5e0dee2c1df3aa729ce"
 
 [[files]]
 file = "mods/spiders-produce-webs.pw.toml"
