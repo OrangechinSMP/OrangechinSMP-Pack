@@ -2474,11 +2474,6 @@ hash = "3894af3009eebeafe24460292e661e3b4f0fc578c0a65fc91ebcca31f68ec009"
 metafile = true
 
 [[files]]
-file = "mods/snow-real-magic-fabric.pw.toml"
-hash = "1574e5c3b0a69fdd0da15f1bef65e51a6c4fb68e0af94d73d707641a274eac51"
-metafile = true
-
-[[files]]
 file = "mods/snowysniffer-1.20.1-1.0.0.jar"
 hash = "96218de328fb4a675b8c9509fc7f7f451f89ab55e0c1b5caff31efeda247b294"
 
