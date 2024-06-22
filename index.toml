@@ -1,66 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/OrangechinSMP-Pack.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/libraries/OrangechinSMP.xml"
-hash = "6aeff673f55908cad4655a29a61343d02f33a69fb6fb73affda5ba7df6538c11"
-
-[[files]]
-file = ".idea/libraries/YungsApi_1_20_Fabric_4_0_2.xml"
-hash = "0bc14507035532413b452b7219db9bc4dde0a85a101c91bd72034e7f76249960"
-
-[[files]]
-file = ".idea/libraries/client.xml"
-hash = "ec9567a01ec87471e6d071bd1d39250aa38a0e1dbfc87a6d0ab74dafba540763"
-
-[[files]]
-file = ".idea/libraries/client1.xml"
-hash = "e5ea1e06fd5de587d943877d0f6df25227517a7beac7c1cada550710c26376d5"
-
-[[files]]
-file = ".idea/libraries/jars.xml"
-hash = "7ced9f0dadcca668dca1086a4560ddf7e7f5ca3fb6e1e3f8ccb5b0f446135fd8"
-
-[[files]]
-file = ".idea/libraries/library.xml"
-hash = "5ecfb542637be24bab2b8a712f88d316f961710b1257e222a01a1a42839f69bc"
-
-[[files]]
-file = ".idea/libraries/mods.xml"
-hash = "7cdf2ad368d7b63c93af19797a6a6001f3974a478f9c89f8c695a2165310fb58"
-
-[[files]]
-file = ".idea/libraries/optimization.xml"
-hash = "b19dc512e915a55ebb46da7165808ee273d8d96f06cffc9a562f1953159529b8"
-
-[[files]]
-file = ".idea/libraries/server.xml"
-hash = "34cbbe2cacd16a63be5c471138cce12018458550c863dbdbd0a7dfb3bed15e40"
-
-[[files]]
-file = ".idea/libraries/villager_nerf.xml"
-hash = "6dcf1a9f42767aaeabe489b9abf1887a480d670880523ff7adb2e85070071367"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "7c407574ffa3b8b662ddfe44b51a2bd7dff033acc7b6ef94793a0b3255ba919c"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "6c6637db40ee943b9a544b977e76bf17b90f5f9b779b088ac4e0756ce7b03dee"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "f10afde6c4e028d935c157e20fd1be7c9486ea918b119b82af0f27f69e41a192"
-
-[[files]]
 file = "config/alivent-messenger.json"
 hash = "49dea7862d1a6e9312ef27a993d8805efcfa438d825043039890a97f0d9fd98e"
 
