@@ -1,7 +1,0 @@
-{
-  "rainWatering": true,
-  "rainWateringMultiplier": 12.5,
-  "dontBreakOnJump": true,
-  "rightClickHarvest": true,
-  "dispenserPlanting": true
-}

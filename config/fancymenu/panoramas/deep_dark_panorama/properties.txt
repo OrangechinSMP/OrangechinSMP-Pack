@@ -1,8 +1,0 @@
-type = panorama
-
-panorama-meta {
-  name = deep_dark_panorama
-  speed = 0.75
-  fov = 90.0
-  angle = -22.5
-}

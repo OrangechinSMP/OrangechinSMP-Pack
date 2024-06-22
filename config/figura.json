@@ -1,8 +1,0 @@
-{
-  "CONFIG_VERSION": 1,
-  "chat_nameplate": 1,
-  "entity_nameplate": 1,
-  "list_nameplate": 1,
-  "render_debug_parts_pivot": 0,
-  "server_ip": "figura.moonlight-devs.org:25565"
-}
