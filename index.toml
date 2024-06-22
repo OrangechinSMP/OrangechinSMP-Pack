@@ -498,7 +498,7 @@ hash = "daecd756248f524e0c8374926aff937c122f99ae1aa1d9adc1168edf656c7e81"
 
 [[files]]
 file = "config/fancymenu/customization/orangechinsmp_menu.txt"
-hash = "a673d555b69e22ceb5e6dd3995193da580090c03b1294fadf0b6f9ad17f4944a"
+hash = "771bbbbe79ea679f2366cc9af481bbaece869f65c82c298a6c0cb9dd80bf42f5"
 
 [[files]]
 file = "config/fancymenu/customization/orangechinsmp_menu_goku.txt"
@@ -2739,4 +2739,4 @@ hash = "c4df2ca9fa1c86b012be7ad88ee032665a9887bb41489c844517ecb26a75ecb1"
 
 [[files]]
 file = "servers.dat"
-hash = "2464fba3a41b8a3544c746aaec0640959c8f6d8ccef8de80bd04f7c3a65d447c"
+hash = "9732b6b5bbf1a1da6c1c7c795ee72b3ac9d41006ecaba70abb74a60b51f5e4a8"

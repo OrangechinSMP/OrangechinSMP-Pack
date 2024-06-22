@@ -124,7 +124,7 @@ element {
 
 element {
   button_element_executable_block_identifier = f30f9e67-0606-47f3-ad13-ae53110ebc29-1708369827957
-  [executable_action_instance:75692887-11fb-4fca-bc49-9fffb6c27a56-1708369827957][action_type:joinserver] = orangechinsmp.secure.pebble.host
+  [executable_action_instance:75692887-11fb-4fca-bc49-9fffb6c27a56-1708369827957][action_type:joinserver] = 51.222.121.76:25600
   [executable_block:f30f9e67-0606-47f3-ad13-ae53110ebc29-1708369827957][type:generic] = [executables:75692887-11fb-4fca-bc49-9fffb6c27a56-1708369827957;]
   restartbackgroundanimations = true
   loopbackgroundanimations = false
