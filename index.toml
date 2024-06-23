@@ -970,7 +970,7 @@ hash = "634308f34272ed91d8cd8924be927e72dcea71b12457e82c06e099dd3a205179"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "6dd2576c8f94b98fd4bdcd5dd48a00a85ae1ec3ea43d0c70efc8563e015c9e91"
+hash = "65b0d3b410061804949a45a2555b21663da1d1a347520a8eb468d90f617129b1"
 
 [[files]]
 file = "config/universalenchants-client.toml"
@@ -2245,8 +2245,8 @@ hash = "5622ca6faf2d4d237d429a679b4e17be1ddb5e7d3bd0e85dd887531d85d8d659"
 metafile = true
 
 [[files]]
-file = "mods/gateway-0.2.11-1.20.1.jar"
-hash = "394a4744e8e8c3ce9b34eb6084a2d0056aa5277adebf8dbd3926fc4e8d8858aa"
+file = "mods/gateway-0.2.12-1.20.1.jar"
+hash = "4cad32fcbf07694c4f47aa0df93270ae70398858e66a2538c398af314e8e2d00"
 
 [[files]]
 file = "mods/geckolib-fabric-1.20.1-4.4.4.jar"
