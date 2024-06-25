@@ -306,7 +306,7 @@ hash = "df7b141a31dd46db2ff89e7cdbc506932d5c65256eb511a49519f2d783c838c8"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "affb6ffd60eb0073b673111843adca6f381b59e359ddd95bbbdfd126aa7d8385"
+hash = "139295c2e922cf874cc35cc1658546180f676d677772d2ece799edf8f825ad82"
 
 [[files]]
 file = "config/enchantery-client.json"
