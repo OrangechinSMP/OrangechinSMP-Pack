@@ -2522,10 +2522,6 @@ hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
 metafile = true
 
 [[files]]
-file = "mods/moonlight-1.20-2.12.6-fabric.jar"
-hash = "1e52fa80fd99dfd6d4163858dc5c3313949796627d0155a4d7d036508fe2a404"
-
-[[files]]
 file = "mods/nbt-recipes-1.0.1+1.20.1.jar"
 hash = "c388fe6e86024d413c071c3de9b2d00fcf18f1b6bbb71cdec8c814f1cf587082"
 
