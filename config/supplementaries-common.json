@@ -79,7 +79,7 @@
     "cage": {
       "enabled": true,
       "allow_all_mobs": false,
-      "cage_allow_all_babies": true,
+      "cage_allow_all_babies": false,
       "cage_auto_detect": false,
       "persistent_mobs": false,
       "health_threshold": 100
@@ -155,7 +155,7 @@
       "horse_speed_duration": 10
     },
     "planter": {
-      "enabled": true,
+      "enabled": false,
       "broken_by_sapling": true,
       "rich_soil_planter": true
     },

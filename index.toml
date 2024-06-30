@@ -829,6 +829,178 @@ file = "config/paragon.json5"
 hash = "dfffffe4bfa570e8b1090d889ff4635ad7e96c15134748ac84937b75c5ea0c9d"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/Better Stronghold 1 Stronghold Per World/data/betterstrongholds/worldgen/structure_set/stronghold.json"
+hash = "01cb71742a5ebfda748376aa9fc23c170277ac16514b91ff6489de94c6ed1059"
+
+[[files]]
+file = "config/paxi/datapacks/Better Stronghold 1 Stronghold Per World/pack.mcmeta"
+hash = "7bd40c20a0ae63ce22930765e1fa7b24e90e0417170b90472840bf24a542391a"
+
+[[files]]
+file = "config/paxi/datapacks/sculk-shriekers-spawn-wardens-1-19.zip"
+hash = "f5110a3f494324f1e83a4c508503c11c2328bc4b3802cb77b3f22123ea404c45"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/andromeda/lang/en_us.json"
+hash = "8aca4ad1b4ea1eb44f5ed31a6a995cb0900d775716d6d702db51369d9280556b"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/andromeda/models/item/wilderwildbaobab_boat_with_jukebox.json"
+hash = "ed0153d825c81a074b982333cbe2753a985cbcf472894880bca92f435b40f18c"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/andromeda/models/item/wilderwildcypress_boat_with_jukebox.json"
+hash = "c53dc64fb641bcddf3d89ec5ac287957cee7ee2ee973e69cec9eb25d9dff90bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/andromeda/models/item/wilderwildpalm_boat_with_jukebox.json"
+hash = "c089395a424ece60e0e8926da40f13122392b797a537aa21fb28f1bf875d0c00"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/andromeda/textures/item/wilderwildbaobab_boat_with_jukebox.png"
+hash = "129c4a9893a2d0dc3b867fc6a226fa43be8d43c9183d1141f553dabcdde95087"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/andromeda/textures/item/wilderwildcypress_boat_with_jukebox.png"
+hash = "9e42fbc3084149bc84bec3378f8678da2215800a8a71ac4e7e50da265078f3e0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/andromeda/textures/item/wilderwildpalm_boat_with_jukebox.png"
+hash = "825d926a9c755e0a7dcc89ae9a86e0c0d253bff0ba61330c71721d86c5cc514f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/hamsters/geo/block/hamster_wheel.geo.json"
+hash = "5a95ad290f5f62212b4340bfeb74ac58ac5e50593c030b28db89a6f76040cf12"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/hamsters/textures/block/hamster_wheel.png"
+hash = "877d5a2f6cda206b4e484ca9d75340495581b917d88de9cab40a09c3112c26e9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/block/radio.json"
+hash = "4ba3f59eb4259860b5622eae1348428d56cef25be7f2bd7a4d9c0c73e5fddfc2"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/block/radiosmither.json"
+hash = "1ff1b0779aafd2dfb5ec0d0235baf455ffc4ede692be5b3b0be91cce2f0903d5"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/radio.json"
+hash = "d2127f8394f03164b392b28be82cddbda92bb805ea08e56f24e8c4ec1367ec42"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/radiosmither.json"
+hash = "1cb41a2f1b468f41ad09bb6df0451b273ae6e4b2357777a785e33ff262e01f43"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/receiving_module.json"
+hash = "3fd273fb1ef3ffe96edad4395af48e57b03c48c8e6253e758e650beeefe2c6f0"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/speaker_module.json"
+hash = "dab50f071d0451bc7543f3fe506034b8fbb7b0f37b73af36f58bbcf11e806668"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/speaking_transceiver.json"
+hash = "423d6534833c2b988af963c4758f9a3d4f7caa10728a5594465fd20196d792a4"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/transceiver.json"
+hash = "aba67893247ce6822cdabd792d13a131a7bc708fce3ba932d11a012d5521b691"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/transmitting_module.json"
+hash = "0f943b8a1d809e200646025f5805a64f8cafad42b677e4feb01780e408313938"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/using_speaking_transceiver.json"
+hash = "78bdb595a7e3c896ee3223e3bbafe66da3e762c795f0df13a2b7572d8eac6bd8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/models/item/using_transceiver.json"
+hash = "c21dade0ebaf5048078da8acdd8979f9578aa306ba65df9d681b5ffcd57d566f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/sounds.json"
+hash = "3d9b8b535645cb2feccb8ba51d426ac00f3545506c9d0b9acd811f82e0be3c7d"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/block/radio.png"
+hash = "35e9b85ea9c3ab838125f076f1a4de96699c48a6acf4dae5f4d95b567a80c6e8"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/block/radio_smither.png"
+hash = "fbd8e1f33ca8a88a460d86b91aa3f20f7cb7829c53f9e35c0f0a16df000be0f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/block/radio_smither_front.png"
+hash = "f05e3808ceec1ff9c592413bd3bd0af7c08f0f312a0dee967f3bbd56004e364a"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/block/radio_smither_side.png"
+hash = "ddae8fa826c80f244ce44b5ecd95ecab24d0a8ed263fb26f15e97fabd57fe463"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/block/radiosmither.png"
+hash = "fbd8e1f33ca8a88a460d86b91aa3f20f7cb7829c53f9e35c0f0a16df000be0f7"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/block/radiosmither_tools.png"
+hash = "39eb5478843d4e07b373ad88f2f7a67cf2005b71f5a9ebfa74a76ae6478d4900"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/gui/container/radiosmither.png"
+hash = "e662d5a1bc2675c1a7c3fdf3bfcb0b051f0c36c00302474daa0566cfb9451e57"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/item/listener_module.png"
+hash = "e6a7c62c87194de324f6cce01de08e5030ac3bd673fb9636486bbe41b2ac17af"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/item/radio.png"
+hash = "dc3ef7c6e1571b0248126f4ba48b5f74f16ea3a0b2d296919f00a4bdbf19f6c3"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/item/receiving_module.png"
+hash = "b5e1c8c1bdf7a0de26e5ae0779e92f2b9187328018d971e189f1e8152a11629e"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/item/speaker_module.png"
+hash = "c2f02f21e64d3075fd9205f915a308e177ce3d3ed91497cde5e1643722f22040"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/item/transceiver.png"
+hash = "74746ac856c9abbbb849a6b2b3d0abaa622f392d021ae7ede6beb91ab7ef1f9f"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/item/transceiver_glow.png"
+hash = "e1551c18274248876aa1ca50b7cc4c29cd606b3915a75b5e4da0418ceed75f84"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/item/transceiver_pressed.png"
+hash = "ee2df4c4cb3aa3b678afeefa71428ce99dbcef3639f0e21568d2de97ff6e09b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/assets/simpleradio/textures/item/transmitting_module.png"
+hash = "1e1a30902be94309fbf43c6b37b8c82f1bfb25235ebf88600b5fa1399507b207"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/pack.mcmeta"
+hash = "1c757d35b8c742daf3c10859c27051fc02ac254bb7bea78a29011db22fca7e30"
+
+[[files]]
+file = "config/paxi/resourcepacks/Orangechin/pack.png"
+hash = "d1e9ce4d5e41c7466a12618f87392268c8319c797be0517bb1c057044c7f6830"
+
+[[files]]
 file = "config/pehkui-client.toml"
 hash = "18741b2cf056e7609eac3dabe966569a12a819ab03e083c873c85c27a52929a7"
 
@@ -970,7 +1142,7 @@ hash = "634308f34272ed91d8cd8924be927e72dcea71b12457e82c06e099dd3a205179"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "65b0d3b410061804949a45a2555b21663da1d1a347520a8eb468d90f617129b1"
+hash = "7f635faca229710a38018e2a9389df96ae9b3fa977ddd7f82b47562de5cb1991"
 
 [[files]]
 file = "config/universalenchants-client.toml"
@@ -1873,6 +2045,10 @@ file = "mods/FlameSweeping-1.2-patch1.jar"
 hash = "e042bfe70a4ffbf29612f30c81a5034ae1e7b5c26cef40b72c0678a5a349c380"
 
 [[files]]
+file = "mods/Paxi-1.20-Fabric-4.0.jar"
+hash = "a2c446a94680897642c669ce6a01dba0f0eee0388160d5c807bda46342dda211"
+
+[[files]]
 file = "mods/Unionized-Villagers-1.0.jar"
 hash = "de9c16cf437f3ef4ea9e10d18cbbc86e765dc2be928fa565b205f29ae4fcd742"
 
@@ -1899,9 +2075,8 @@ hash = "6c776edcadd52ca4777bfd73ed0f1eb89d21e3885af6a7b5aeb93601573b7b1c"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "4dd0610d41ab9b243c739921cf2baa90ebdc0a881f758d10b87d27b09a0c40af"
-metafile = true
+file = "mods/amendments-1.20-1.2.8-fabric.jar"
+hash = "3a03f686437aca2f743a61e6c7adc6071dfda25a32c6f6101f4d3e2cdd6010d6"
 
 [[files]]
 file = "mods/antixray.pw.toml"
@@ -2328,9 +2503,8 @@ hash = "9cabb780d582531e26756092be3de8b64b487866cb1e2ae7611190fc0b22240e"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "b6455b6dd3b016c8fbfaa825c4a0edaa850e00afd9d8738bd272ced891e07c8c"
-metafile = true
+file = "mods/map-atlases-2.6.0+1.20.1.jar"
+hash = "0eada6987e6326139b7e5e0fc267240b636549bbabff027fe0757d2d2b1a6a67"
 
 [[files]]
 file = "mods/melody.pw.toml"
@@ -2440,9 +2614,8 @@ hash = "d0c2d4517803398c317c634478a44df86f3114513f57aac4078f79557f88b9c0"
 metafile = true
 
 [[files]]
-file = "mods/sawmill.pw.toml"
-hash = "28aaa0329282ce273d3d047b38308a83704e8cc1f1213d2b402bf59a5e1c97da"
-metafile = true
+file = "mods/sawmill-1.20-1.4.3-fabric.jar"
+hash = "43942b8391efdda766a2ac99741045b13fd618caf6a4e4a400914aa97682e955"
 
 [[files]]
 file = "mods/selene.pw.toml"
@@ -2493,6 +2666,10 @@ metafile = true
 [[files]]
 file = "mods/supplementaries-1.20-2.8.10-fabric.jar"
 hash = "672030c86cca429f47dc1d9ddc519fbf714cf4bfaeaecd6325fd96b1daec7005"
+
+[[files]]
+file = "mods/suppsquared-1.20-1.1.14-fabric.jar"
+hash = "d5d1ea6d2c68c1c8ff12a88b2e0f6d6759ebf2241f8221a12c333735b3a668b3"
 
 [[files]]
 file = "mods/tall-flower-pots.pw.toml"
@@ -2576,150 +2753,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "f2165d8141402cc00ef79bf34ec83caef46b4627858185c43f2dd7c159b3e515"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/andromeda/lang/en_us.json"
-hash = "8aca4ad1b4ea1eb44f5ed31a6a995cb0900d775716d6d702db51369d9280556b"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/andromeda/models/item/wilderwildbaobab_boat_with_jukebox.json"
-hash = "ed0153d825c81a074b982333cbe2753a985cbcf472894880bca92f435b40f18c"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/andromeda/models/item/wilderwildcypress_boat_with_jukebox.json"
-hash = "c53dc64fb641bcddf3d89ec5ac287957cee7ee2ee973e69cec9eb25d9dff90bc"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/andromeda/models/item/wilderwildpalm_boat_with_jukebox.json"
-hash = "c089395a424ece60e0e8926da40f13122392b797a537aa21fb28f1bf875d0c00"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/andromeda/textures/item/wilderwildbaobab_boat_with_jukebox.png"
-hash = "129c4a9893a2d0dc3b867fc6a226fa43be8d43c9183d1141f553dabcdde95087"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/andromeda/textures/item/wilderwildcypress_boat_with_jukebox.png"
-hash = "9e42fbc3084149bc84bec3378f8678da2215800a8a71ac4e7e50da265078f3e0"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/andromeda/textures/item/wilderwildpalm_boat_with_jukebox.png"
-hash = "825d926a9c755e0a7dcc89ae9a86e0c0d253bff0ba61330c71721d86c5cc514f"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/block/radio.json"
-hash = "4ba3f59eb4259860b5622eae1348428d56cef25be7f2bd7a4d9c0c73e5fddfc2"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/block/radiosmither.json"
-hash = "1ff1b0779aafd2dfb5ec0d0235baf455ffc4ede692be5b3b0be91cce2f0903d5"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/radio.json"
-hash = "d2127f8394f03164b392b28be82cddbda92bb805ea08e56f24e8c4ec1367ec42"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/radiosmither.json"
-hash = "1cb41a2f1b468f41ad09bb6df0451b273ae6e4b2357777a785e33ff262e01f43"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/receiving_module.json"
-hash = "3fd273fb1ef3ffe96edad4395af48e57b03c48c8e6253e758e650beeefe2c6f0"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/speaker_module.json"
-hash = "dab50f071d0451bc7543f3fe506034b8fbb7b0f37b73af36f58bbcf11e806668"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/speaking_transceiver.json"
-hash = "423d6534833c2b988af963c4758f9a3d4f7caa10728a5594465fd20196d792a4"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/transceiver.json"
-hash = "aba67893247ce6822cdabd792d13a131a7bc708fce3ba932d11a012d5521b691"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/transmitting_module.json"
-hash = "0f943b8a1d809e200646025f5805a64f8cafad42b677e4feb01780e408313938"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/using_speaking_transceiver.json"
-hash = "78bdb595a7e3c896ee3223e3bbafe66da3e762c795f0df13a2b7572d8eac6bd8"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/models/item/using_transceiver.json"
-hash = "c21dade0ebaf5048078da8acdd8979f9578aa306ba65df9d681b5ffcd57d566f"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/sounds.json"
-hash = "3d9b8b535645cb2feccb8ba51d426ac00f3545506c9d0b9acd811f82e0be3c7d"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/block/radio.png"
-hash = "35e9b85ea9c3ab838125f076f1a4de96699c48a6acf4dae5f4d95b567a80c6e8"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/block/radio_smither.png"
-hash = "fbd8e1f33ca8a88a460d86b91aa3f20f7cb7829c53f9e35c0f0a16df000be0f7"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/block/radio_smither_front.png"
-hash = "f05e3808ceec1ff9c592413bd3bd0af7c08f0f312a0dee967f3bbd56004e364a"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/block/radio_smither_side.png"
-hash = "ddae8fa826c80f244ce44b5ecd95ecab24d0a8ed263fb26f15e97fabd57fe463"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/block/radiosmither.png"
-hash = "fbd8e1f33ca8a88a460d86b91aa3f20f7cb7829c53f9e35c0f0a16df000be0f7"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/block/radiosmither_tools.png"
-hash = "39eb5478843d4e07b373ad88f2f7a67cf2005b71f5a9ebfa74a76ae6478d4900"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/gui/container/radiosmither.png"
-hash = "e662d5a1bc2675c1a7c3fdf3bfcb0b051f0c36c00302474daa0566cfb9451e57"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/item/listener_module.png"
-hash = "e6a7c62c87194de324f6cce01de08e5030ac3bd673fb9636486bbe41b2ac17af"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/item/radio.png"
-hash = "dc3ef7c6e1571b0248126f4ba48b5f74f16ea3a0b2d296919f00a4bdbf19f6c3"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/item/receiving_module.png"
-hash = "b5e1c8c1bdf7a0de26e5ae0779e92f2b9187328018d971e189f1e8152a11629e"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/item/speaker_module.png"
-hash = "c2f02f21e64d3075fd9205f915a308e177ce3d3ed91497cde5e1643722f22040"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/item/transceiver.png"
-hash = "74746ac856c9abbbb849a6b2b3d0abaa622f392d021ae7ede6beb91ab7ef1f9f"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/item/transceiver_glow.png"
-hash = "e1551c18274248876aa1ca50b7cc4c29cd606b3915a75b5e4da0418ceed75f84"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/item/transceiver_pressed.png"
-hash = "ee2df4c4cb3aa3b678afeefa71428ce99dbcef3639f0e21568d2de97ff6e09b9"
-
-[[files]]
-file = "resourcepacks/Orangechin/assets/simpleradio/textures/item/transmitting_module.png"
-hash = "1e1a30902be94309fbf43c6b37b8c82f1bfb25235ebf88600b5fa1399507b207"
-
-[[files]]
-file = "resourcepacks/Orangechin/pack.mcmeta"
-hash = "1c757d35b8c742daf3c10859c27051fc02ac254bb7bea78a29011db22fca7e30"
-
-[[files]]
-file = "resourcepacks/Orangechin/pack.png"
-hash = "d1e9ce4d5e41c7466a12618f87392268c8319c797be0517bb1c057044c7f6830"
 
 [[files]]
 file = "resourcepacks/Walker Pack/assets/headed/lang/en_us.json"
