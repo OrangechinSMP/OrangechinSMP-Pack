@@ -833,18 +833,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/Better Stronghold 1 Stronghold Per World/data/betterstrongholds/worldgen/structure_set/stronghold.json"
-hash = "01cb71742a5ebfda748376aa9fc23c170277ac16514b91ff6489de94c6ed1059"
-
-[[files]]
-file = "config/paxi/datapacks/Better Stronghold 1 Stronghold Per World/pack.mcmeta"
-hash = "7bd40c20a0ae63ce22930765e1fa7b24e90e0417170b90472840bf24a542391a"
-
-[[files]]
-file = "config/paxi/datapacks/sculk-shriekers-spawn-wardens-1-19.zip"
-hash = "f5110a3f494324f1e83a4c508503c11c2328bc4b3802cb77b3f22123ea404c45"
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
