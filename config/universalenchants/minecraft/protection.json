@@ -5,6 +5,5 @@
     "$minecraft:universal_enchants_horse_armor"
   ],
   "incompatible": [
-    "origins:water_protection"
   ]
 }

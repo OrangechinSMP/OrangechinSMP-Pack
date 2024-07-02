@@ -5,8 +5,5 @@
     "$minecraft:crossbow"
   ],
   "incompatible": [
-    "mcdw:chain_reaction",
-    "mcdw:replenish",
-    "mcdw:dipping_poison"
   ]
 }

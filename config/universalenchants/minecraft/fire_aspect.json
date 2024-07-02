@@ -6,7 +6,5 @@
     "$minecraft:trident"
   ],
   "incompatible": [
-    "mcdw:freezing",
-    "enchancement:frostbite"
   ]
 }

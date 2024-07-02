@@ -4,8 +4,6 @@
     "$minecraft:trident"
   ],
   "incompatible": [
-    "enchancement:warp",
-    "enchancement:leech",
     "minecraft:loyalty",
     "minecraft:channeling"
   ]

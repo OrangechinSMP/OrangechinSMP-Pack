@@ -5,6 +5,5 @@
     "$minecraft:crossbow"
   ],
   "incompatible": [
-    "mcdw:overcharge"
   ]
 }
