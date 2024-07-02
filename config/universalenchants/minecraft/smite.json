@@ -7,6 +7,10 @@
   ],
   "incompatible": [
     "minecraft:impaling",
+    "mcdw:smiting",
+    "mcdw:void_strike",
     "minecraft:bane_of_arthropods",
+    "mcdw:illagers_bane",
+    "mcdw:enigma_resonator"
   ]
 }

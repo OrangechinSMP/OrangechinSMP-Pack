@@ -5,6 +5,8 @@
     "$minecraft:bow"
   ],
   "incompatible": [
-    "supplementaries:stasis"
+    "supplementaries:stasis",
+    "mcdw:accelerate",
+    "mcdw:bonus_shot"
   ]
 }

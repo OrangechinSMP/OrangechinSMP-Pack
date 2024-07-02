@@ -6,5 +6,9 @@
     "$minecraft:trident"
   ],
   "incompatible": [
+    "mcdw:smiting",
+    "mcdw:void_strike",
+    "mcdw:illagers_bane",
+    "mcdw:enigma_resonator"
   ]
 }

@@ -7,6 +7,10 @@
   ],
   "incompatible": [
     "minecraft:impaling",
-    "minecraft:smite"
+    "minecraft:smite",
+    "mcdw:smiting",
+    "mcdw:void_strike",
+    "mcdw:illagers_bane",
+    "mcdw:enigma_resonator"
   ]
 }

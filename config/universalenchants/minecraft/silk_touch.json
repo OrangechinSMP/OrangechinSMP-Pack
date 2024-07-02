@@ -5,6 +5,8 @@
   ],
   "incompatible": [
     "minecraft:fortune",
-    "minecraft:luck_of_the_sea"
+    "minecraft:luck_of_the_sea",
+    "enchancement:molten",
+    "enchancement:extracting"
   ]
 }

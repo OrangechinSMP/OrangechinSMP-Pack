@@ -6,5 +6,6 @@
     "$minecraft:bow"
   ],
   "incompatible": [
+    "enchancement:brimstone"
   ]
 }
