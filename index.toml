@@ -1533,10 +1533,6 @@ file = "mods/elegantarmour-1.0.7.jar"
 hash = "224eafed7260c973a48baaa71f64ccf76038887856b1edc5896e6915a800a1b4"
 
 [[files]]
-file = "mods/enchancement-1.20-25.jar"
-hash = "338b1fcd78ca694d59970901b8a2fc440d90c686dab4407b19e526dca7cea9b4"
-
-[[files]]
 file = "mods/essential_1-3-1-3_fabric_1-20-1.jar"
 hash = "f3efc415f73855faae5e3a89cb56f081c0fd3b99d1b2131a5b0b254a833b312e"
 
