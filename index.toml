@@ -1653,6 +1653,10 @@ file = "mods/indium-1.0.27+mc1.20.1.jar"
 hash = "9789a93f1aeb235d74d54df6e81a371aaf15cd1a9805f68d1cfadbdf4be99361"
 
 [[files]]
+file = "mods/iris-1.7.2+mc1.20.1.jar"
+hash = "00155661a0b28c92ddbbab914aa07bfb300e835aa6f60b161cacd48ff0e8172f"
+
+[[files]]
 file = "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
 hash = "f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6"
 
