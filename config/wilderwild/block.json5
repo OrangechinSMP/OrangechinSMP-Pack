@@ -23,7 +23,7 @@
 		"stoneChestTimer": 100,
 	},
 	"termite": {
-		"onlyEatNaturalBlocks": true,
+		"onlyEatNaturalBlocks": false,
 		"maxDistance": 32,
 		"maxNaturalDistance": 10,
 	},
@@ -43,6 +43,7 @@
 	"shriekerGargling": true,
 	"billboardTendrils": true,
 	"tendrilsCarryEvents": false,
+	"reachBoostBeacon": false,
 	"pollenParticles": true,
 	"logHollowing": true,
 	"cactusPlacement": true,

@@ -1150,7 +1150,7 @@ hash = "f5963bd291b16d57fee429d3db6896ae0af4e872ed747006224af83b40620cd9"
 
 [[files]]
 file = "config/wilderwild/block.json5"
-hash = "f76a81c3c3263ae82eae1cbd447b6b61d9c341669de411594a7547bd1e5326f6"
+hash = "3fbaa6817dd4ce51e1c01c7858a6b5ed47f6c1d43aab7a92fadd24f3c92c9da1"
 
 [[files]]
 file = "config/wilderwild/entity.json"
@@ -1178,7 +1178,7 @@ hash = "6e53ec06e12beb4b9781c919729f0c4043cd385bcc3e0d94b01f779868697871"
 
 [[files]]
 file = "config/wilderwild/mixins.json5"
-hash = "895ec62d4bb547fc2ab6d4d671629f14d40e5a46ef2ac4e30b1f352cb7305701"
+hash = "73e30f66cfd082e7057d5aac1ffc6cb945e6cbf3ac406e6ee5f47ff52ff2f4ae"
 
 [[files]]
 file = "config/wilderwild/worldgen.json"
@@ -1349,8 +1349,8 @@ file = "mods/UniversalEnchants-v8.0.0-1.20.1-Fabric.jar"
 hash = "babefd77fce595b7241723dfd9573b7c40f3be47ea9523ec8fae9b8c6f3bf9b7"
 
 [[files]]
-file = "mods/WilderWild-2.4.2-Fabric+1.20.1.jar"
-hash = "ae444e4cbdb440bc31a9ab9e8db8afa936633be649435ccf6f3f449cab5dcfb2"
+file = "mods/WilderWild-2.4.5-Fabric+1.20.1.jar"
+hash = "82c98f002e0eb03a8f3a7606968f44c6b8609143636c1f740e018e842afbcebf"
 
 [[files]]
 file = "mods/YungsApi-1.20-Fabric-4.0.2.jar"
@@ -1565,20 +1565,20 @@ file = "mods/extraorigins-1.20-8.jar"
 hash = "7f3862a88fff131fc66a3f33c56b3b13cd42f8a29a80fd53883e9081fb8f255c"
 
 [[files]]
-file = "mods/fabric-api-0.92.1+1.20.1(1).jar"
+file = "mods/fabric-api-0.92.1+1.20.1.jar"
 hash = "b7b0350f42a0c04db5422924218c960b8e478ebe7036c49d99489b70a310906c"
 
 [[files]]
-file = "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar"
-hash = "4cc86a5ca56236f776ec9b84370fb02ac4f7cdf88a3c82886da9c558e1e4f39c"
+file = "mods/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar"
+hash = "e4f2b0d53a270601e3debd5dcc23ea769f051d30e02692e02a1eb013184505f6"
 
 [[files]]
 file = "mods/fallingleaves-1.15.6+1.20.1.jar"
 hash = "27b2c5a2a9cebe09afd4adccc3989c43a6cceb92ece60a6daea735ba178114f0"
 
 [[files]]
-file = "mods/fancymenu_fabric_3.2.0_MC_1.20.1.jar"
-hash = "0601c2653226ac2c912e9651522c9137bd65a1e2fb53aafb511fefb085c793b4"
+file = "mods/fancymenu_fabric_3.2.3_MC_1.20.1.jar"
+hash = "8359dd19b4b85e6a789629c4105c962b947e12be29f55025ea532bdeeec38d7a"
 
 [[files]]
 file = "mods/ferritecore-6.0.1-fabric.jar"
